@@ -3,7 +3,7 @@ declare(strict_types=1);
 
 namespace frontend\modules\notification\controllers;
 
-use common\notification\services\notification\NotificationService;
+use common\notification\services\NotificationService;
 use frontend\modules\notification\forms\NotificationSearch;
 use Yii;
 use yii\base\InvalidConfigException;

@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace common\notification\services\notification;
+namespace common\notification\services;
 
 
 use common\notification\dto\NotificationSendData;
